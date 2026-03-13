@@ -17,42 +17,68 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Haoxiang Sun**, an undergraduate student in **Computer Science and Engineering** at **Sichuan University** (2023.09 - expected 2027.06), currently with GPA **3.79/4.0**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Since 2024.12, I have been a research intern at **DICALab** (Data Intelligence and Computing Art Laboratory), supervised by **Dr. Tao Wang**. My current work focuses on:
+
+- Multimodal Large Language Models (MLLMs / VLLMs)
+- Visual detection and segmentation
+- Inference acceleration and efficient decoding
+
+My research interests include **Computer Vision** and **Multimodal Large Language Models**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;`From structure to synergy` accepted by Information Fusion
+- *2026.02*: &nbsp;`Dr.Seg` accepted by CVPR 2026.
+<!-- - *2026.01*: &nbsp;Started contributing to vLLM and vLLM-speculators with a focus on multimodal speculative decoding. -->
+- *2024.12*: &nbsp;Joined DICALab as a research intern.
 
+<!-- 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey (2025-2026)</div><img src='images/500x300.png' alt="survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolution in Multimodal Large Language Models
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Haoxiang Sun**, Tao Wang, Li Yuan, Jian Zhao, Jiancheng Lv
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Information Fusion · JCR Q1 · IF 15.5 · CAS Q1 Top
+- First survey analyzing vision-language perception in MLLMs as an intrinsic unified capability.
+- Proposed a five-stage taxonomy of MLLM perception paradigm evolution.
+- Timeline: 2025.04 - 2026.03
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Dr.Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design**  
+  **Haoxiang Sun**, Tao Wang, Chenwei Tang, Li Yuan, Jiancheng Lv  
+  CVPR 2026 (CCF-A), Accept Rate: 25.42% · Timeline: 2025.08 - 2026.02
+
+  - Identified key differences between GRPO for visual perception and reasoning tasks.
+  - Designed `Look-to-Confirm` and `Distribution-Ranked Reward`.
+  - Built the challenging `COCONut` dataset for multi-object perception.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: Second-class Scholarship (Top 10%), Sichuan University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - expected 2027.06*, B.Eng. in Computer Science and Engineering, Sichuan University, Chengdu, China (GPA: 3.79/4.0).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💬 Invited Talks
+- No invited talks yet. -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.12 - now*, Research Intern, DICALab (Data Intelligence and Computing Art Laboratory), Chengdu, China.  
+  Supervised by Dr. Tao Wang; focusing on multimodal LLMs for visual perception.
+
+<!-- # 🧩 Open Source Contributions
+- *2026.01 - now*, Contributor @ **vLLM-speculators**  
+  First technical lead and primary owner of multimodal speculative decoding support.
+- *2026.01 - now*, Contributor @ **vLLM**  
+  Supported multimodal speculative decoding in vLLM. -->
+
+# 🛠 Technical Skills
+- **Languages**: Mandarin (native), English (fluent)
+- **Programming Languages**: C/C++, Python
+- **Frameworks**: PyTorch, vLLM, VeRL -->
