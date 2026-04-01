@@ -19,20 +19,26 @@ redirect_from:
 
 I am **Haoxiang Sun**, an undergraduate student in **Computer Science and Engineering** at **Sichuan University** (2023.09 - expected 2027.06), currently with GPA **3.79/4.0**.
 
-Since 2024.12, I have been a research intern at **DICALab** (Data Intelligence and Computing Art Laboratory), supervised by **Dr. Tao Wang**. My current work focuses on:
+Since 2024.12, I have been a research intern at [**DICALab**](https://center.dicalab.cn/) (Data Intelligence and Computing Art Laboratory), supervised by [**Dr. Tao Wang**](https://twangnh.github.io/). My current work focuses on:
 
 - Multimodal Large Language Models (MLLMs / VLLMs)
-- Visual detection and segmentation
+- Transferring VLLMs to real-world applications
 - Inference acceleration and efficient decoding
 
-My research interests include **Computer Vision** and **Multimodal Large Language Models**.
+
+
+_Updated on April 2026._
 
 
 # 🔥 News
-- *2026.03*: &nbsp;`From structure to synergy` accepted by Information Fusion
-- *2026.02*: &nbsp;`Dr.Seg` accepted by CVPR 2026.
+- *2026.04*: &nbsp;I will join **Peking University** (Shenzhen Graduate School) as a master's student in Fall 2027.
+- *2026.03*: &nbsp;[From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolution in Multimodal Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MOgH2ksAAAAJ&citation_for_view=MOgH2ksAAAAJ:u-x6o8ySG0sC) accepted by **Information Fusion**.
+- *2026.02*: &nbsp;[Dr. Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MOgH2ksAAAAJ&citation_for_view=MOgH2ksAAAAJ:u5HHmVD_uO8C) accepted by **CVPR 2026**.
 <!-- - *2026.01*: &nbsp;Started contributing to vLLM and vLLM-speculators with a focus on multimodal speculative decoding. -->
 - *2024.12*: &nbsp;Joined DICALab as a research intern.
+
+# 🧩 Open Source Contributions
+- *2026.01 - now*, Contributor @ **vLLM-speculators**
 
 <!-- 
 # 📝 Publications 
@@ -66,19 +72,21 @@ From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolu
 - *2023.09 - expected 2027.06*, B.Eng. in Computer Science and Engineering, Sichuan University, Chengdu, China (GPA: 3.79/4.0).
 
 <!-- # 💬 Invited Talks
-- No invited talks yet. -->
+- No invited talks yet.
+-->
 
 # 💻 Internships
-- *2024.12 - now*, Research Intern, DICALab (Data Intelligence and Computing Art Laboratory), Chengdu, China.  
-  Supervised by Dr. Tao Wang; focusing on multimodal LLMs for visual perception.
+- *2024.12 - now*, Research Intern, [DICALab](https://center.dicalab.cn/) (Data Intelligence and Computing Art Laboratory), Chengdu, China.  
+  Supervised by [Dr. Tao Wang](https://twangnh.github.io/); focusing on multimodal LLMs for visual perception.
 
 <!-- # 🧩 Open Source Contributions
 - *2026.01 - now*, Contributor @ **vLLM-speculators**  
   First technical lead and primary owner of multimodal speculative decoding support.
 - *2026.01 - now*, Contributor @ **vLLM**  
-  Supported multimodal speculative decoding in vLLM. -->
+  Supported multimodal speculative decoding in vLLM.
+-->
 
 # 🛠 Technical Skills
 - **Languages**: Mandarin (native), English (fluent)
 - **Programming Languages**: C/C++, Python
-- **Frameworks**: PyTorch, vLLM, VeRL -->
+- **Frameworks**: PyTorch, vLLM, VeRL
