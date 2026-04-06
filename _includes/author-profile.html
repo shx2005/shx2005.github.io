@@ -94,6 +94,9 @@
       {% if author.wechat_qr %}
         <li><a href="{{ author.wechat_qr | relative_url }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% endif %}
+      {% if author.rednote_qr %}
+        <li><a href="{{ author.rednote_qr | relative_url }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i> Rednote</a></li>
+      {% endif %}
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
@@ -191,6 +194,9 @@
       {% endif %}
       {% if author.wechat_qr %}
         <a href="{{ author.wechat_qr | relative_url }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.rednote_qr %}
+        <a href="{{ author.rednote_qr | relative_url }}"><i class="fas fa-fw fa-bookmark" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>

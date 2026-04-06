@@ -31,8 +31,7 @@ _Updated on April 2026._
 
 
 # 🔥 News
-- *2026.04*: &nbsp;I will join **Annu Zhineng** (Chengdu) as an external on-site intern.
-- *2026.03*: &nbsp;I will join **Peking University** (Shenzhen Graduate School) as a master's student in Fall 2027.
+- *2026.04*: &nbsp;I will join **Peking University** (Shenzhen Graduate School) as a master's student in Fall 2027.
 - *2026.03*: &nbsp;[From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolution in Multimodal Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MOgH2ksAAAAJ&citation_for_view=MOgH2ksAAAAJ:u-x6o8ySG0sC) accepted by **Information Fusion**.
 - *2026.02*: &nbsp;[Dr. Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MOgH2ksAAAAJ&citation_for_view=MOgH2ksAAAAJ:u5HHmVD_uO8C) accepted by **CVPR 2026**.
 <!-- - *2026.01*: &nbsp;Started contributing to vLLM and vLLM-speculators with a focus on multimodal speculative decoding. -->
