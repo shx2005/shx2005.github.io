@@ -79,6 +79,9 @@ From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolu
 # 💻 Internships
 - *2024.12 - now*, Research Intern, [DICALab](https://center.dicalab.cn/) (Data Intelligence and Computing Art Laboratory), Chengdu, China.  
   Supervised by [Dr. Tao Wang](https://twangnh.github.io/); focusing on multimodal LLMs for visual perception.
+  
+- *2026.04 - now*, Research Intern, Annu Zhineng, Chengdu, China.  
+  Focusing on deploying world action model.
 
 <!-- # 🧩 Open Source Contributions
 - *2026.01 - now*, Contributor @ **vLLM-speculators**  
