@@ -15,8 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
 I am **Haoxiang Sun**, an undergraduate student in **Computer Science and Engineering** at **Sichuan University** (2023.09 - expected 2027.06), currently with GPA **3.79/4.0**.
 
 Since 2024.12, I have been a research intern at [**DICALab**](https://center.dicalab.cn/) (Data Intelligence and Computing Art Laboratory), supervised by [**Dr. Tao Wang**](https://twangnh.github.io/). My current work focuses on:
@@ -25,9 +23,13 @@ Since 2024.12, I have been a research intern at [**DICALab**](https://center.dic
 - Transferring VLLMs to real-world applications
 - Inference acceleration and efficient decoding
 
+<span class='anchor' id='about-me'></span>
 
+<div class="cvpr-banner" markdown="1">
+**CVPR 2026:** I will attend **CVPR 2026** in **Denver, Colorado, USA**, from **June 3 to June 8, 2026**. Feel free to reach out if you would like to meet up or grab a meal in person!
+</div>
 
-_Updated on April 2026._
+_Updated on May 2026._
 
 
 # 🔥 News
